@@ -1,0 +1,45 @@
+#azul, #rojo, #verde, #amarillo, #key {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
+#azul { background-color: blue; }
+#rojo { background-color: red; }
+#verde { background-color: green; }
+#amarillo { background-color: yellow; }
+#key {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  border: 1px solid #ccc;   /* opcional, para ver siempre el contorno */
+}
+
+#container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  max-width: 850px;
+  margin: 0 auto;
+  align-items: start;
+}
+
+#container h1,
+#container p {
+  grid-column: 1 / -1;
+}
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background-image:url(../img/fondo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ height: 490px;
+}
+.texto-negro {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  border-radius: 10px; /* opcional: esquinas redondeadas */
+  text-align: center;  /* opcional: centra el texto */
+}

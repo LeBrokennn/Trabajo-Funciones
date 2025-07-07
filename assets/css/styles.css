@@ -1,0 +1,32 @@
+/* Estilos de index.html */
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background-image:url(../img/fondo3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;   
+ height: 490px;  
+}
+
+h1 {
+  color: #350da5;
+  margin-bottom: 1rem;
+  font-size: 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card a {
+  color: rgb(241, 239, 239);
+  display: block;
+  margin: 0.5rem 0;
+  text-decoration: none;
+  margin-top: 20px;
+  font-size: 30px;
+}
+.card a:hover {
+  color: #fff; /* o algún color de contraste para que cambie al pasar el cursor */
+}
