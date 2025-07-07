@@ -31,7 +31,7 @@ Este repositorio contiene ejercicios prácticos para aprender y practicar **func
 
 
 ## 🧱 Estructura del proyecto
-
+```
 Trabajo-Funciones/
 ├── index.html                # Landing con enlaces a los ejercicios
 ├── pintar.html               # Cambia el color de un div al hacer clic
@@ -45,7 +45,7 @@ Trabajo-Funciones/
 │   │   └── script.js         # Helper DOM: pintar(elemento, color)
 │   └── img/                  # Recursos gráficos (fondos, logos, etc.)
 └── README.md                 # Esta guía
-
+```
 --------------------------------------------------------------
 
 ## 🧬Principales funciones
