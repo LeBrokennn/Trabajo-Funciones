@@ -59,7 +59,7 @@ Trabajo-Funciones/
 
 ## 🚀 ¿Cómo usar?
 1. Clona o descarga este repositorio.
-2. Abre 👉 [PAGE DEL REPOSITORIO].
+2. Abre 👉 [https://lebrokennn.github.io/Trabajo-Funciones/].
 3. Haz clic en los enlaces para explorar cada ejercicio.
 
 ## 👩‍💻 Créditos
